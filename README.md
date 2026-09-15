@@ -75,7 +75,7 @@ ai_resume_analyzer/
 
 Match scores are estimates based on job-related resume content. They should not be used for automatic hiring or rejection decisions. Missing keywords do not necessarily mean missing ability.
 ## 🚀 Live Demo
-
+👉 [AI Resume Analyzer - Live Demo](https://navyasriakula181-ai-resume-analyzer-app-jgh1xr.streamlit.app/)
 Try the AI Resume Analyzer here:
 
 👉 [AI Resume Analyzer - Live Demo](https://navyasriakula181-ai-resume-analyzer-app-jgh1xr.streamlit.app/)
