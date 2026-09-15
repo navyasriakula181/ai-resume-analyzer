@@ -74,3 +74,10 @@ ai_resume_analyzer/
 ## ⚠️ Responsible AI
 
 Match scores are estimates based on job-related resume content. They should not be used for automatic hiring or rejection decisions. Missing keywords do not necessarily mean missing ability.
+## 🚀 Live Demo
+
+Try the AI Resume Analyzer here:
+
+👉 [AI Resume Analyzer - Live Demo](https://navyasriakula181-ai-resume-analyzer-app-jgh1xr.streamlit.app/)
+
+Upload your PDF or DOCX resume to analyze skills, calculate job-role match scores, identify missing skills, and generate a learning roadmap.
